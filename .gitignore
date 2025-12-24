@@ -1,0 +1,6 @@
+Calibre/
+Calibre Settings/
+
+*.exe
+*.db
+*.json

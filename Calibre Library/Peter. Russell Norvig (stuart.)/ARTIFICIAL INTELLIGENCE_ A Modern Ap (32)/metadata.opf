@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10878c5b-1a88-47bf-810a-42ac3d918a2a</dc:identifier>
+        <dc:title>ARTIFICIAL INTELLIGENCE: A Modern Approach, Global Edition</dc:title>
+        <dc:creator opf:file-as="Norvig, Peter. Russell" opf:role="aut">Peter. Russell Norvig (stuart.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-15T16:45:20.049597+00:00</dc:date>
+        <dc:description>&lt;p&gt;Thelong-anticipated revision of ArtificialIntelligence: A Modern Approach explores the full breadth and depth of the field of artificialintelligence (AI). The 4th Edition brings readers up to date on the latest technologies,presents concepts in a more unified manner, and offers new or expanded coverageof machine learning, deep learning, transfer learning, multi agent systems,robotics, natural language processing, causality, probabilistic programming,privacy, fairness, and safe AI.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pearson</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781292401133</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">B4xczgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-12-24T16:44:06.910371+00:00"/>
+        <meta name="calibre:title_sort" content="ARTIFICIAL INTELLIGENCE: A Modern Approach, Global Edition"/>
+        <meta name="calibre:user_metadata:#edition" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Edition&quot;, &quot;search_terms&quot;: [&quot;#edition&quot;], &quot;label&quot;: &quot;edition&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;4th&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

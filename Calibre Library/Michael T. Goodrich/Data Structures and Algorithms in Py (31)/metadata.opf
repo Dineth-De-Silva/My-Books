@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5035cf6-7fae-405b-aafd-26c144d3e02b</dc:identifier>
+        <dc:title>Data Structures and Algorithms in Python</dc:title>
+        <dc:creator opf:file-as="Goodrich, Michael T. &amp; Tamassia, Roberto &amp; Goldwasser, Michael H." opf:role="aut">Michael T. Goodrich</dc:creator>
+        <dc:creator opf:file-as="Goodrich, Michael T. &amp; Tamassia, Roberto &amp; Goldwasser, Michael H." opf:role="aut">Roberto Tamassia</dc:creator>
+        <dc:creator opf:file-as="Goodrich, Michael T. &amp; Tamassia, Roberto &amp; Goldwasser, Michael H." opf:role="aut">Michael H. Goldwasser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-18T16:42:47.549574+00:00</dc:date>
+        <dc:description>&lt;p&gt;Based on the authors' market leading data structures books in Java and C++, this textbook offers a comprehensive, definitive introduction to data structures in Python by respected authors. Data Structures and Algorithms in Python is the first mainstream object-oriented book available for the Python data structures course. Designed to provide a comprehensive introduction to data structures and algorithms, including their design, analysis, and implementation, the text will maintain the same general structure as Data Structures and Algorithms in Java and Data Structures and Algorithms in C++.&lt;/p&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118290279</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Mr59DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-24T16:41:53.544472+00:00"/>
+        <meta name="calibre:title_sort" content="Data Structures and Algorithms in Python"/>
+        <meta name="calibre:user_metadata:#edition" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Edition&quot;, &quot;search_terms&quot;: [&quot;#edition&quot;], &quot;label&quot;: &quot;edition&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

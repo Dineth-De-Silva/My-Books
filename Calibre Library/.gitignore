@@ -1,0 +1,6 @@
+.tmp.driveupload/
+.tmp.drivedownload/
+.calnotes/
+.caltrash
+
+*.nomedia

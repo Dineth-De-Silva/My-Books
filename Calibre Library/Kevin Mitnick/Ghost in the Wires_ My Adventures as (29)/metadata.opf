@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15fc1159-e137-4705-9c03-159dccd849d9</dc:identifier>
+        <dc:title>Ghost in the Wires: My Adventures as the World's Most Wanted Hacker</dc:title>
+        <dc:creator opf:file-as="Mitnick, Kevin" opf:role="aut">Kevin Mitnick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-15T16:39:00.217837+00:00</dc:date>
+        <dc:description>&lt;p&gt;In this "intriguing, insightful and extremely educational" novel, the world's most famous hacker teaches you easy cloaking and counter-measures for citizens and consumers in the age of Big Brother and Big Data (Frank W. Abagnale). Kevin Mitnick was the most elusive computer break-in artist in history. He accessed computers and networks at the world's biggest companies -- and no matter how fast the authorities were, Mitnick was faster, sprinting through phone switches, computer systems, and cellular networks. As the FBI's net finally began to tighten, Mitnick went on the run, engaging in an increasingly sophisticated game of hide-and-seek that escalated through false identities, a host of cities, and plenty of close shaves, to an ultimate showdown with the Feds, who would stop at nothing to bring him down. Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbelievable escapes -- and a portrait of a visionary who forced the authorities to rethink the way they pursued him, and forced companies to rethink the way they protect their most sensitive information. "Mitnick manages to make breaking computer code sound as action-packed as robbing a bank.&lt;/p&gt;
+
+&lt;p&gt;" -- NPR&lt;/p&gt;</dc:description>
+        <dc:publisher>Little, Brown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316134477</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">p-nRxITKc34C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>BIO015000</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Network Security</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-24T16:38:44.102214+00:00"/>
+        <meta name="calibre:title_sort" content="Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"/>
+        <meta name="calibre:user_metadata:#edition" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Edition&quot;, &quot;search_terms&quot;: [&quot;#edition&quot;], &quot;label&quot;: &quot;edition&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
