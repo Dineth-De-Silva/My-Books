@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c1227ac-4376-48d8-b9fb-0f30b0d44e40</dc:identifier>
+        <dc:title>Fluent Python: Clear, Concise, and Effective Programming</dc:title>
+        <dc:creator opf:file-as="Ramalho, Luciano" opf:role="aut">Luciano Ramalho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-15T10:31:24.231440+00:00</dc:date>
+        <dc:description>&lt;p&gt;Don't waste time bending Python to fit patterns you've learned in other languages. Python's simplicity lets you become productive quickly, but often this means you aren't using everything the language has to offer. With the updated edition of this hands-on guide, you'll learn how to write effective, modern Python 3 code by leveraging its best ideas. Discover and apply idiomatic Python 3 features beyond your past experience. Author Luciano Ramalho guides you through Python's core language features and libraries and teaches you how to make your code shorter, faster, and more readable. Complete with major updates throughout, this new edition features five parts that work as five short books within the book:  Data structures: Sequences, dicts, sets, Unicode, and data classes Functions as objects: First-class functions, related design patterns, and type hints in function declarations Object-oriented idioms: Composition, inheritance, mixins, interfaces, operator overloading, protocols, and more static types Control flow: Context managers, generators, coroutines, async/await, and thread/process pools Metaprogramming: Properties, attribute descriptors, class decorators, and new class metaprogramming hooks that replace or simplify metaclasses&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492056355</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">H1SXzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-25T10:30:00.515953+00:00"/>
+        <meta name="calibre:title_sort" content="Fluent Python: Clear, Concise, and Effective Programming"/>
+        <meta name="calibre:user_metadata:#edition" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Edition&quot;, &quot;search_terms&quot;: [&quot;#edition&quot;], &quot;label&quot;: &quot;edition&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;web_search_template&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;2nd&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
